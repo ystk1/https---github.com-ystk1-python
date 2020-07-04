@@ -1,0 +1,1 @@
+cmd /k D:\ProgramData\Anaconda3\envs\opencv\Scripts\activate
